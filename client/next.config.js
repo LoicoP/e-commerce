@@ -16,7 +16,7 @@ const nextConfig = {
           {
             source: "/api/:path*",
             destination:
-              "https://https://e-commerce-production-backend2.up.railway.app/api/:path*",
+              "https://e-commerce-production-backend2.up.railway.app/api/:path*",
           },
         ];
   },
